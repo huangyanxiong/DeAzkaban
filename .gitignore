@@ -1,0 +1,16 @@
+
+*.log
+*.swp
+.classpath
+.gradle/
+.project
+.settings/
+/bin
+bin/
+build/
+
+# Intellij files
+.idea
+*.iml
+*.ipr
+*.iws
